@@ -1,5 +1,3 @@
-# Recruitment-Analysis-Dashboard
-Recruitment Analysis Dashboard built in Power BI for HR analytics.
 # Recruitment Analysis Dashboard
 
 A **Recruitment Analysis Dashboard** built in **Power BI** to help HR teams visualize recruitment KPIs, improve hiring strategies, and make data-driven decisions.
