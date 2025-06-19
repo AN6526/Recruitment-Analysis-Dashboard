@@ -1,10 +1,10 @@
 # Recruitment Analysis Dashboard
 
-A **Recruitment Analysis Dashboard** built in **Power BI** to help HR teams visualize recruitment KPIs, improve hiring strategies, and make data-driven decisions.
+**A **Recruitment Analysis Dashboard** built in **Power BI** to help HR teams visualize recruitment KPIs, improve hiring strategies, and make data-driven decisions.**
 
 ---
 
-## 📊 Features
+## Features
 
 - Total Applications Overview
 - Shortlisted Candidates & Conversion Rate
@@ -16,20 +16,20 @@ A **Recruitment Analysis Dashboard** built in **Power BI** to help HR teams visu
 
 ---
 
-## 📷 Dashboard Screenshot
+## Dashboard Screenshot
 
 ![Recruitment Dashboard](https://raw.githubusercontent.com/AN6526/Recruitment-Analysis-Dashboard/main/Screenshot%202025-06-12%20145445.png)
 
 ---
 
-## 🛠️ Tools Used
+## Tools Used
 
 - **Power BI Desktop** (for visualization)
 - **Excel** (for data preparation)
 
 ---
 
-## 🚀 How to Use
+## How to Use
 
 1. Clone or download this repository.
 2. Open the `.pbix` file in **Power BI Desktop**.
@@ -39,7 +39,7 @@ A **Recruitment Analysis Dashboard** built in **Power BI** to help HR teams visu
 
 ---
 
-## 📬 Contact
+## Contact
 
 For feedback or collaboration opportunities: **anjali89798119@gmail.com
 **
